@@ -41,7 +41,7 @@ Molex connector 52991-0208: [DigiKey](https://www.digikey.com/en/products/detail
   10. Check continuity between the resistors and the according connector pins.
   11. If everything is nominal then proceed with soldering the big GND via, otherwise reflow as needed.
 
-Now that you are done you can try putting a WiFi chip on there and see if you get signal. Becareful to not short anything on the board, you might need to add kapton tape either on the chip or on the Wii motherboard.
+Now that you are done you can try putting a WiFi chip on there and see if you get signal. Be careful to not short anything on the board, you might need to add kapton tape either on the chip or on the Wii motherboard.
 
 ### Please handle the flex pcb with care! It is quite fragile, I inadvertently ripped it off the Wii while testing. Make sure you really solder that big GND via for better stability.
 
