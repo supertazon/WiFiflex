@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "wififlex-connector")(type "KiCad")(uri "${KIPRJMOD}/wififlex-connector.pretty")(options "")(descr ""))
+)
