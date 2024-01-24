@@ -48,7 +48,7 @@ Now that you are done you can try putting a WiFi chip on there and see if you ge
 ## Contributors
 
 - **supertazon**: Initial design and routing
-- **[YveltalGriffin](https://github.com/mackieks)**: Via stitching, large GND via addition and general tips on routing
+- **[YveltalGriffin](https://github.com/mackieks)**: Via stitching, large GND via addition, silkscreen and general tips on routing
 
 ## Acknowledgements
 
