@@ -1,16 +1,15 @@
 # WiFiflex
 Wii WiFi relocation flex pcb
 
-![WiFiflex](https://github.com/supertazon/WiFiflex/assets/1402795/6885cdbe-66b2-4bac-8e6b-58b71c2bb4f8)
-![IMG_3469](https://github.com/supertazon/WiFiflex/assets/1402795/b5aa3793-8d84-407c-8988-c64485fead5c)
+![Wififlex front](https://github.com/supertazon/WiFiflex/assets/49252894/52532ee0-9ff9-413e-a32b-f01b3843cfcf)
 ![image](https://github.com/supertazon/WiFiflex/assets/1402795/46e0e68d-764e-44ed-8664-1ff353428367)
-
+![IMG_3469](https://github.com/supertazon/WiFiflex/assets/1402795/b5aa3793-8d84-407c-8988-c64485fead5c)
 
 A flex pcb to easily relocate the Wii WiFi chip for Wii portables (useless for stock Wii) by using the WiFi chip connector. The WiFi chip is notorious for being difficult to relocate by handwiring it due to wire length sensitivity. License is permissive, you are free to make, sell and distribute the flex pcb.
 
 The flex pcb is compatible with a OMGWTF trim, it also does not overlap with the NAND relocation flex.
 
-Repo contains the KiCad source files (needs KiCad 8.0RC1 minimum to work) and gerbers.
+Repo contains the KiCad source files (needs KiCad 8.0RC2 minimum to work) and gerbers.
 
 **BOM**
 
