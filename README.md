@@ -3,6 +3,8 @@ Wii WiFi relocation flex pcb
 
 ![WiFiflex](https://github.com/supertazon/WiFiflex/assets/1402795/6885cdbe-66b2-4bac-8e6b-58b71c2bb4f8)
 ![IMG_3469](https://github.com/supertazon/WiFiflex/assets/1402795/b5aa3793-8d84-407c-8988-c64485fead5c)
+![image](https://github.com/supertazon/WiFiflex/assets/1402795/46e0e68d-764e-44ed-8664-1ff353428367)
+
 
 A flex pcb to easily relocate the Wii WiFi chip for Wii portables (useless for stock Wii) by using the WiFi chip connector. The WiFi chip is notorious for being difficult to relocate by handwiring it due to wire length sensitivity. License is permissive, you are free to make, sell and distribute the flex pcb.
 
