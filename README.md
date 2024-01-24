@@ -57,3 +57,4 @@ Now that you are done you can try putting a WiFi chip on there and see if you ge
 - [Shank's Definitive Wii Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-trimming-guide.198/): for info on WiFi soldering points
 - [MJMT's WiFi breakout board](https://bitbuilt.net/forums/index.php?threads/wifi-breakout-board-for-relocation.4916/post-53366): for the connector reference
 - [ShockSlayer's handwired WiFi relocation](https://bitbuilt.net/forums/index.php?threads/sswiit-revitalized.146/post-982): to see how it was done before
+- [BitBuilt community for being awesome](https://bitbuilt.net/)
