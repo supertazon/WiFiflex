@@ -8,7 +8,7 @@ A flex pcb to easily relocate the Wii WiFi chip for Wii portables (useless for s
 
 The flex pcb is compatible with a OMGWTF trim, it also does not overlap with the NAND relocation flex.
 
-Repo contains the KiCad source files (needs KiCad 7.99 minimum to work) and gerbers.
+Repo contains the KiCad source files (needs KiCad 8.0RC1 minimum to work) and gerbers.
 
 **BOM**
 
